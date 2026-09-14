@@ -1,0 +1,1 @@
+Un archivo **README** sirve como la carta de presentación y guía principal de un proyecto digital o repositorio de código.
