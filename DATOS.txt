@@ -1,3 +1,11 @@
 Un archivo README sirve como la carta de presentación y guía principal de un proyecto digital o repositorio de código.
 Ricardo Balam Reyes Flores
 2630003@upv.edu.mx
+
+Este archivo fue modificado desde GitHub.
+
+Guardar el cambio realizando un commit desde GitHub.
+
+Regresar al repositorio local utilizando PowerShell.
+
+Descargar los cambios realizados en GitHub.
