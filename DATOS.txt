@@ -4,8 +4,5 @@ Ricardo Balam Reyes Flores
 
 Este archivo fue modificado desde GitHub.
 
-Guardar el cambio realizando un commit desde GitHub.
+Este archivo fue modificado desde el repositorio local.
 
-Regresar al repositorio local utilizando PowerShell.
-
-Descargar los cambios realizados en GitHub.
